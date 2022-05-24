@@ -3916,15 +3916,5 @@ input, select, textarea {
 .cd-timeline__container {
   position: relative;
   padding: var(--space-md) 0;
-
-  &::before { // this is the timeline vertical line
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 18px;
-    height: 100%;
-    width: 4px;
-    background: var(--cd-color-2);
-  }
 }
 
