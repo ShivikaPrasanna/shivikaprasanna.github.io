@@ -3126,7 +3126,7 @@ input, select, textarea {
 					max-width: 75%;
 					border-radius: 50%;
 					height: 235px;
-					width: 200px;
+					/* width: 200px; */
 					/* transform: scale(.32, .32) */
 				}
 
